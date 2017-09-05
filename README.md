@@ -1,10 +1,20 @@
 
 
-# 001
+# 001:hello world
 
     scala 001.scala
 
-# 002:Standard types in Scala
+# 002:基本の型
+
+    scala 002.scala
+
+# 002:関数
+
+    scala 002_3.scala
+
+# 002:例外処理
+
+    scala 002_4.scala
 
 
 # nlp001
